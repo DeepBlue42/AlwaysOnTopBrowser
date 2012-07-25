@@ -1,9 +1,0 @@
-d:\documents\visual studio 2010\Projects\AlwaysOnTopBrowser\AlwaysOnTopBrowser\bin\Debug\AlwaysOnTopBrowser.exe
-d:\documents\visual studio 2010\Projects\AlwaysOnTopBrowser\AlwaysOnTopBrowser\bin\Debug\AlwaysOnTopBrowser.pdb
-d:\documents\visual studio 2010\Projects\AlwaysOnTopBrowser\AlwaysOnTopBrowser\obj\x86\Debug\ResolveAssemblyReference.cache
-d:\documents\visual studio 2010\Projects\AlwaysOnTopBrowser\AlwaysOnTopBrowser\obj\x86\Debug\AlwaysOnTopBrowser.Form1.resources
-d:\documents\visual studio 2010\Projects\AlwaysOnTopBrowser\AlwaysOnTopBrowser\obj\x86\Debug\AlwaysOnTopBrowser.Properties.Resources.resources
-d:\documents\visual studio 2010\Projects\AlwaysOnTopBrowser\AlwaysOnTopBrowser\obj\x86\Debug\GenerateResource.read.1.tlog
-d:\documents\visual studio 2010\Projects\AlwaysOnTopBrowser\AlwaysOnTopBrowser\obj\x86\Debug\GenerateResource.write.1.tlog
-d:\documents\visual studio 2010\Projects\AlwaysOnTopBrowser\AlwaysOnTopBrowser\obj\x86\Debug\AlwaysOnTopBrowser.exe
-d:\documents\visual studio 2010\Projects\AlwaysOnTopBrowser\AlwaysOnTopBrowser\obj\x86\Debug\AlwaysOnTopBrowser.pdb
